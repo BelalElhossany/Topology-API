@@ -1,0 +1,17 @@
+{
+  "name": "topology_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.2",
+    "jsdoc": "^3.6.7"
+  }
+}
